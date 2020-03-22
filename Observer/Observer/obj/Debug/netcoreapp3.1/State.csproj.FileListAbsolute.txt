@@ -1,0 +1,11 @@
+C:\Users\eluis\source\repos\Observer\Observer\bin\Debug\netcoreapp3.1\State.exe
+C:\Users\eluis\source\repos\Observer\Observer\bin\Debug\netcoreapp3.1\State.deps.json
+C:\Users\eluis\source\repos\Observer\Observer\bin\Debug\netcoreapp3.1\State.runtimeconfig.json
+C:\Users\eluis\source\repos\Observer\Observer\bin\Debug\netcoreapp3.1\State.runtimeconfig.dev.json
+C:\Users\eluis\source\repos\Observer\Observer\bin\Debug\netcoreapp3.1\State.dll
+C:\Users\eluis\source\repos\Observer\Observer\bin\Debug\netcoreapp3.1\State.pdb
+C:\Users\eluis\source\repos\Observer\Observer\obj\Debug\netcoreapp3.1\State.AssemblyInfoInputs.cache
+C:\Users\eluis\source\repos\Observer\Observer\obj\Debug\netcoreapp3.1\State.AssemblyInfo.cs
+C:\Users\eluis\source\repos\Observer\Observer\obj\Debug\netcoreapp3.1\State.dll
+C:\Users\eluis\source\repos\Observer\Observer\obj\Debug\netcoreapp3.1\State.pdb
+C:\Users\eluis\source\repos\Observer\Observer\obj\Debug\netcoreapp3.1\State.csprojAssemblyReference.cache
